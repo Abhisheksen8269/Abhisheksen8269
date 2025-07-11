@@ -1,0 +1,6 @@
+
+rt USE_PROXY=0
+export HTTP_PROXY=''   # empty or your proxy URL
+
+./docker_build.sh
+
